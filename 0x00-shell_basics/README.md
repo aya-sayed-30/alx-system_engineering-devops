@@ -1,1 +1,1 @@
-display file content in a long format
+display file contents in a long format
