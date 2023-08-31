@@ -1,1 +1,1 @@
-school mgc
+clean emacs
