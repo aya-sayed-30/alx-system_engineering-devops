@@ -1,1 +1,1 @@
-diplay file contents including hidden files
+diaplay the file content with user-id and hidden files
