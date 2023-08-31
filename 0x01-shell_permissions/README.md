@@ -1,1 +1,1 @@
-mirror-perm
+symbolic_link
