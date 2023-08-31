@@ -1,1 +1,1 @@
-mv file from source to destination
+delete betty
