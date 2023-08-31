@@ -1,1 +1,1 @@
-create pareny directory
+series of commas
