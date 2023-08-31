@@ -1,3 +1,2 @@
 #!/bin/bash
-MOD=$(stat -c "%a" ./olleh)
-chmod $MOD ./hello
+chmod $(stat -c "%a" ./olleh) ./hello
