@@ -1,4 +1,3 @@
 #!/bin/bash
 MOD=$(stat -c "%a" ./olleh)
 chmod $MOD ./hello
-echo $MOD
