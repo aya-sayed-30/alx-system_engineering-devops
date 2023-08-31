@@ -1,1 +1,1 @@
-print current directory
+list directories
