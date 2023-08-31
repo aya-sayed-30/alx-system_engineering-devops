@@ -1,1 +1,1 @@
-mirror-permission
+direc-perm
