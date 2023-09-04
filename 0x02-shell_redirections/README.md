@@ -1,1 +1,1 @@
-print last lines of file
+display first 10 lines
