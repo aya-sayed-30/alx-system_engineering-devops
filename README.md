@@ -1,1 +1,1 @@
-clean emacs
+My readme for shell
