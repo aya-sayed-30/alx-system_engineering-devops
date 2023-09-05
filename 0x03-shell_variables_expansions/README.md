@@ -1,1 +1,1 @@
-create global variable
+change number from base 10 to bas2
