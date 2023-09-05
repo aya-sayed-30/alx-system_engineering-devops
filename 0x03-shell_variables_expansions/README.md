@@ -1,1 +1,1 @@
-change number from decimal to hexadecimal
+encode and decode
