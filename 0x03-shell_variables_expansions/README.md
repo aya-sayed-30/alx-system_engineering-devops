@@ -1,1 +1,1 @@
-the power
+change number from decimal to hexadecimal
