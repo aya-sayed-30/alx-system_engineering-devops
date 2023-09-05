@@ -1,1 +1,1 @@
-add directory to PATH variable
+count directories
