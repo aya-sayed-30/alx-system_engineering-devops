@@ -1,1 +1,1 @@
-arithmatic operation for addition
+the power
