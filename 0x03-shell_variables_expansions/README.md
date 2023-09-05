@@ -1,1 +1,1 @@
-print global variable
+print env and local variables
