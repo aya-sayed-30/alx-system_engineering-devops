@@ -1,1 +1,1 @@
-change number from base 10 to bas2
+arithmatic operation for addition
