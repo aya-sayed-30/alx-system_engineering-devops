@@ -1,1 +1,1 @@
-count directories
+print float
