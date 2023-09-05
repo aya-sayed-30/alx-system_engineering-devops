@@ -1,1 +1,1 @@
-102-odd
+print output
