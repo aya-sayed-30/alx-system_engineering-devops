@@ -1,5 +1,2 @@
 #!/bin/bash
-directories=$(find . -type d)
-count=$(echo "$directories" | wc -l)
-count=$((count - 1))
-echo "Total number of directories and subdirectories: $count"
+find . -type d ! -path . -print | wc -l 
