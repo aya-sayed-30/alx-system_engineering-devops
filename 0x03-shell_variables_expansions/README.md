@@ -1,1 +1,1 @@
-printg
+102-odd
