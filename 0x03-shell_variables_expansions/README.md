@@ -1,1 +1,1 @@
-print env and local variables
+creat new variable
