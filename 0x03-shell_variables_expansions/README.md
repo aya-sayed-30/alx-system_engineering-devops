@@ -1,1 +1,1 @@
-alias
+print hello user
